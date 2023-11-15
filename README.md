@@ -30,7 +30,7 @@ Plot the accquired graph with respect to hours and scores using the scatter plot
 End the program.
 
 ## Program:
-
+```
 /*
 Program to implement the linear regression using gradient descent.
 Developed by: premji p
@@ -114,6 +114,7 @@ print("For population = 35,000, we predict a profit of $"+str(round(predict1,0))
 predict2=predict(np.array([1,7]),theta)*10000
 print("For population = 70,000, we predict a profit of $"+str(round(predict2,0)))
 
+```
 ## Output:
 # Profit Prediction graph
 ![image](https://github.com/Yogabharathi3/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/118899387/9420b984-95ec-4511-94f3-6cfe6de24cdf)
